@@ -1,12 +1,12 @@
 # 忽略日志文件
-Log\
+/Log/*
 *.log
 
 # 临时文件
-Temp\
+/Temp/*
 
 # 扩展文件
-vendor\
+/vendor/
 
 # composer.json 文件
 composer.json
