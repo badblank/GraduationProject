@@ -1,0 +1,12 @@
+# 忽略日志文件
+Log\
+*.log
+
+# 临时文件
+Temp\
+
+# 扩展文件
+vendor\
+
+# composer.json 文件
+composer.json
